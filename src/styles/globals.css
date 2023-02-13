@@ -87,7 +87,7 @@ svg{
 }
 
 .main-content .credits{
-  position: absolute;
+  position: fixed;
   bottom: 40px;
   right: 40px;
   border-radius: 5px;
