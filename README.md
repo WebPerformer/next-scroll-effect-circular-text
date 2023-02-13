@@ -1,6 +1,6 @@
 Texto circular com efeito
 
-![FireShot Capture 004 - Gabriel Silva Araujo - localhost 2](https://user-images.githubusercontent.com/110235876/218331098-419057bc-c903-4f8d-8a15-497c55cfe413.png)
+![FireShot Capture 008 - Next js Template - localhost](https://user-images.githubusercontent.com/110235876/218582380-68e62daa-31c6-47d8-8fe8-b00a42554786.png)
 
 ## Texto circular com efeito
 
@@ -28,5 +28,3 @@ Texto circular com efeito
 
 ## Site Online
 (https://next-scroll-effect-circular-text.vercel.app/)
-
-![FireShot Capture 004 - Gabriel Silva Araujo - localhost](https://user-images.githubusercontent.com/110235876/218330927-49b6b936-8bfb-4827-9570-ed64041ed0da.png)
