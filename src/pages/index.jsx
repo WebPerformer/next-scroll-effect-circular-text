@@ -1,3 +1,8 @@
+import Link from "next/link"
+
+// icons
+import { FiExternalLink } from "react-icons/fi"
+
 // component
 import Tredy from "components/Tredy"
 
@@ -9,7 +14,7 @@ export default function Home() {
         <div className="big-title">Circular Text Scroll Effect</div>
       </div>
       <Tredy/>
-      <Link target="_blank" href="https://www.youtube.com/watch?v=XQ3LqVyQgLM"><div className="credits">Credits: <span>Online Tutorials</span> <FiExternalLink/></div></Link>
+      <Link target="_blank" href="https://www.youtube.com/watch?v=XQ3LqVyQgLM"><div className="credits">Credits: <span>Codegrid</span> <FiExternalLink/></div></Link>
     </div>
   )
 }
