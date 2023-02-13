@@ -85,3 +85,24 @@ svg{
   font-size: 80px;
   color: var(--light-color);
 }
+
+.main-content .credits{
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+  border-radius: 5px;
+  color: var(--light-color);
+}
+
+.main-content .credits span{
+  color: var(--gray-color);
+  transition: all .3s ease;
+}
+
+.main-content .credits:hover span{
+  text-decoration: underline;
+}
+
+.main-content .credits svg{
+  font-size: 14px;
+}
