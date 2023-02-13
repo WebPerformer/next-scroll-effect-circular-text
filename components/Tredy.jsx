@@ -32,7 +32,7 @@ function Tredy() {
     return (
         <div className="tredy">
             <div className="circular-text">
-            <span id="rotated" ref={rotatedRef}>Scroll Down • Scroll Down • Scroll Down • Scroll Down • Scroll Down • Scroll Down</span>
+            <span id="rotated" ref={rotatedRef}>Scroll Down • Scroll Down • Scroll Down • Scroll Down • Scroll Down • Scroll Down •</span>
             </div>
             <div className="arrow"><IoArrowDown name="arrow-down"/></div>
         </div>
