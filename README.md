@@ -1,6 +1,6 @@
 Texto circular com efeito
 
-![FireShot Capture 008 - Next js Template - localhost](https://user-images.githubusercontent.com/110235876/218582380-68e62daa-31c6-47d8-8fe8-b00a42554786.png)
+![FireShot Capture 008 - Next js Template - localhost](https://user-images.githubusercontent.com/110235876/218582662-95e5014f-6fd5-41cf-a570-e293efebb914.png)
 
 ## Texto circular com efeito
 
