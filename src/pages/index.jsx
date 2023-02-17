@@ -9,10 +9,6 @@ import Tredy from "components/Tredy"
 export default function Home() {
   return (
     <div className="main-content">
-      <div className="title">
-        <div className="small-title">Component Project</div>
-        <div className="big-title">Circular Text Scroll Effect</div>
-      </div>
       <Tredy/>
       <Link target="_blank" href="https://www.youtube.com/watch?v=XQ3LqVyQgLM"><div className="credits">Credits: <span>Codegrid</span> <FiExternalLink/></div></Link>
     </div>
